@@ -1,3 +1,9 @@
+To launch the test suites in watch mode:
+
+```
+yarn dev
+```
+
 # Simple Data analysis in JS - ANNUAL SURVEY
 
 Every year, our employees at SISI fill an online form for us to know them better.
